@@ -1,7 +1,7 @@
 تغ# Robot Arm Control Panel
 
 ## Overview
-This is a Flutter application designed to control a robotic arm. It allows the user to adjust servo motor values using sliders, and to save and retrieve these positions (poses) from a MySQL database.
+This is a Flutter application designed to control a robotic arm. It allows the user to adjust servo motor values using sliders, and to save and retrieve these positions (poses) from a MySQL database, then execute them.
 
 ## Features
 - *Motor Control:* Four sliders to control the positions of four servo motors (0-180 degrees).
