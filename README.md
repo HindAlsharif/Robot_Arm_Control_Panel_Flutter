@@ -4,13 +4,13 @@
 This is a Flutter application designed to control a robotic arm. It allows the user to adjust servo motor values using sliders, and to save and retrieve these positions (poses) from a MySQL database, then execute them.
 
 ## Features
-- *Motor Control:* Four sliders to control the positions of four servo motors (0-180 degrees).
-- *Save Poses:* Save the current motor settings to a MySQL database.
-- *Display Poses:* View all saved poses.
-- *Load Poses:* Load a saved pose's values back into the sliders.
-- *Delete Poses:* Remove a specific pose from the list and the database.
-- *Run Pose:* Send the current motor values to the database to execute the pose.
-- *View Run Status:* Display the details of the last executed pose and its status.
+- Motor Control: Four sliders to control the positions of four servo motors (0-180 degrees).
+- Save Poses: Save the current motor settings to a MySQL database.
+- Display Poses: View all saved poses.
+- Load Poses: Load a saved pose's values back into the sliders.
+- Delete Poses: Remove a specific pose from the list and the database.
+- Run Pose: Send the current motor values to the database to execute the pose.
+- View Run Status: Display the details of the last executed pose and its status.
 
 ## Technologies Used
 - Flutter
