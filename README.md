@@ -13,11 +13,11 @@ This is a Flutter application designed to control a robotic arm. It allows the u
 - *View Run Status:* Display the details of the last executed pose and its status.
 
 ## Technologies Used
-- *Flutter*
-- *Dart*
-- *PHP*
-- *MySQL* 
-- *Apache*
+- Flutter
+- Dart
+- PHP
+- MySQL
+- Apache
 
 ## Usage
 1.  Start the Apache and MySQL services using XAMPP.
